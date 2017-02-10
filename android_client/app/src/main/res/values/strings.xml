@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Distributed System</string>
+    <string name="action_settings">Settings</string>
+    <string name="confirm_delete">Xóa file ?</string>
+    <string name="agree">AGREE</string>
+    <string name="disagree">DISAGREE</string>
+</resources>
